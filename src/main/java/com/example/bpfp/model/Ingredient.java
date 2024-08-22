@@ -1,4 +1,6 @@
+
 package com.example.bpfp.model;
+
 
 public class Ingredient {
     private String name;
