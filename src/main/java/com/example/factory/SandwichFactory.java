@@ -1,8 +1,8 @@
-package org.example.com.factory;
+package com.example.factory;
 
-import org.example.com.builder.Builder;
-import org.example.com.model.CookingStep;
-import org.example.com.model.Ingredient;
+import com.example.builder.Builder;
+import com.example.model.CookingStep;
+import com.example.model.Ingredient;
 
 import java.util.ArrayList;
 import java.util.List;

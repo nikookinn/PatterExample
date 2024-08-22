@@ -1,11 +1,11 @@
-package org.example.com.builder;
+package com.example.builder;
 
 
 
-import org.example.com.model.CookingStep;
-import org.example.com.model.Ingredient;
-import org.example.com.model.Meal;
-import org.example.com.util.CalculateMealPrice;
+import com.example.model.CookingStep;
+import com.example.model.Ingredient;
+import com.example.model.Meal;
+import com.example.util.CalculateMealPrice;
 
 import java.util.List;
 

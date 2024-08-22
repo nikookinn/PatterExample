@@ -1,9 +1,9 @@
-package org.example.com.util;
+package com.example.util;
 
 
-import org.example.com.model.CookingStep;
-import org.example.com.model.Ingredient;
-import org.example.com.model.Recipe;
+import com.example.model.CookingStep;
+import com.example.model.Ingredient;
+import com.example.model.Recipe;
 
 public class PrintRecipe {
 

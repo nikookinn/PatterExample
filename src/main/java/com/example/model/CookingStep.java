@@ -1,4 +1,4 @@
-package org.example.com.model;
+package com.example.model;
 
 public class CookingStep {
     private String description;

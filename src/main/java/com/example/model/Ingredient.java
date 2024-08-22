@@ -1,4 +1,4 @@
-package org.example.com.model;
+package com.example.model;
 
 public class Ingredient {
     private String name;

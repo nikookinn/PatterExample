@@ -1,7 +1,7 @@
-package org.example.com.builder;
+package com.example.builder;
 
-import org.example.com.model.CookingStep;
-import org.example.com.model.Ingredient;
+import com.example.model.CookingStep;
+import com.example.model.Ingredient;
 
 import java.util.List;
 

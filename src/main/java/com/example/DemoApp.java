@@ -1,11 +1,11 @@
-package org.example.com;
+package com.example;
 
 
-import org.example.com.builder.RecipeBuilder;
-import org.example.com.factory.Factory;
-import org.example.com.factory.PizzaFactory;
-import org.example.com.model.Recipe;
-import org.example.com.util.PrintRecipe;
+import com.example.builder.RecipeBuilder;
+import com.example.factory.Factory;
+import com.example.factory.PizzaFactory;
+import com.example.model.Recipe;
+import com.example.util.PrintRecipe;
 
 public class DemoApp {
 

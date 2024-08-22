@@ -1,8 +1,8 @@
-package org.example.com.util;
+package com.example.util;
 
 
 
-import org.example.com.model.Ingredient;
+import com.example.model.Ingredient;
 
 import java.util.List;
 
