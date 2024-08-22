@@ -1,11 +1,11 @@
-package com.example.builder;
+package com.example.bpfp.builder;
 
 
 
-import com.example.model.CookingStep;
-import com.example.model.Ingredient;
-import com.example.model.Meal;
-import com.example.util.CalculateMealPrice;
+import com.example.bpfp.model.CookingStep;
+import com.example.bpfp.model.Ingredient;
+import com.example.bpfp.model.Meal;
+import com.example.bpfp.util.CalculateMealPrice;
 
 import java.util.List;
 

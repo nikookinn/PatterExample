@@ -1,6 +1,6 @@
-package com.example.factory;
+package com.example.bpfp.factory;
 
-import com.example.builder.Builder;
+import com.example.bpfp.builder.Builder;
 
 public interface Factory {
     void create(Builder builder);

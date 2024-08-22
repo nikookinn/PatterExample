@@ -1,4 +1,4 @@
-package com.example.model;
+package com.example.bpfp.model;
 
 import java.util.List;
 

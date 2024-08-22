@@ -1,11 +1,11 @@
-package com.example;
+package com.example.bpfp;
 
 
-import com.example.builder.RecipeBuilder;
-import com.example.factory.Factory;
-import com.example.factory.PizzaFactory;
-import com.example.model.Recipe;
-import com.example.util.PrintRecipe;
+import com.example.bpfp.util.PrintRecipe;
+import com.example.bpfp.builder.RecipeBuilder;
+import com.example.bpfp.factory.Factory;
+import com.example.bpfp.factory.PizzaFactory;
+import com.example.bpfp.model.Recipe;
 
 public class DemoApp {
 

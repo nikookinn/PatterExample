@@ -1,8 +1,8 @@
-package com.example.util;
+package com.example.bpfp.util;
 
 
 
-import com.example.model.Ingredient;
+import com.example.bpfp.model.Ingredient;
 
 import java.util.List;
 
